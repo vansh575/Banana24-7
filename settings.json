@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "BananaAFKbot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "RRG1.aternos.me",
-    "port": 28262,
+    "ip": "Shadow_smp-cSLe.aternos.me",
+    "port": 40470,
     "version": "1.26.1.1",
     "try-creative": false
   },
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
